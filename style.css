@@ -337,6 +337,7 @@ h3, h4, h5, h6 {
     }
 
     .midcontent {
+        margin: 50px;
         width: 180%;
         display: flex;
         flex-direction: row;
